@@ -1,8 +1,8 @@
 import glob
 import shutil
 
-Dir = "D:/OneDrive/Documents/"  # Where are the files?
-TragetDir = "D:/OneDrive/Documents/school/6a9/"  # Where are the target files?
+Dir = "D:/Dir/"  # Where are the files?
+TragetDir = "D:/TargetDir/"  # Where are the target files?
 
 StartIndex = len(Dir)  # The chars of the Dir are useless
 
