@@ -2,7 +2,7 @@ import glob
 import shutil
 
 Dir = "D:/Dir/"  # Where are the files?
-TragetDir = "D:/TargetDir/"  # Where are the target files?
+TragetDir = "D:/TargetDir/"  # Where are the target folders?
 
 StartIndex = len(Dir)  # The chars of the Dir are useless
 
