@@ -2,8 +2,8 @@ import glob
 import shutil
 import os
 
-Dir = "D:/dir/"  # Where are the files? Don't forget to ad a "/" at the end.
-TragetDir = "D:/target/dir/"  # Where are the target folders? Don't forget to ad a "/" at the end.
+Dir = "D:/OneDrive/Documents/"  # Where are the files? Add "/" at the end of your directory.
+TragetDir = "D:/OneDrive/Documents/school/6a9/"  # Where are the target folders? Add "/" at the end of your directory.
 
 FileNames = glob.glob(Dir + "*-*")  # scans the dir with the selected character (*[selected character]*), searches directly for the name now.
 
